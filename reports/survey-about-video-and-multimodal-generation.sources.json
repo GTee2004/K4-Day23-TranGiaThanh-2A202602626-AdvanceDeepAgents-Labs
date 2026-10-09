@@ -1,0 +1,178 @@
+[
+  {
+    "n": 1,
+    "id": "arXiv:2405.10674",
+    "url": "https://arxiv.org/abs/2405.10674",
+    "title": "From Sora What We Can See: A Survey of Text-to-Video Generation",
+    "date": "n.d.",
+    "source": "web"
+  },
+  {
+    "n": 2,
+    "id": "arXiv:2204.03458",
+    "url": "https://arxiv.org/abs/2204.03458",
+    "title": "Video Diffusion Models",
+    "date": "2022-04-07",
+    "source": "web"
+  },
+  {
+    "n": 3,
+    "id": "arXiv:2205.15868",
+    "url": "https://arxiv.org/abs/2205.15868",
+    "title": "CogVideo: Large-scale Pretraining for Text-to-Video Generation via Transformers",
+    "date": "2022-05-29",
+    "source": "web"
+  },
+  {
+    "n": 4,
+    "id": "arXiv:2311.15127",
+    "url": "https://arxiv.org/abs/2311.15127",
+    "title": "Stable Video Diffusion: Scaling Latent Video Diffusion Models to Large Datasets",
+    "date": "2023-11-21",
+    "source": "web"
+  },
+  {
+    "n": 5,
+    "id": "2211.13221",
+    "url": "https://huggingface.co/papers/2211.13221",
+    "title": "Latent Video Diffusion Models for High-Fidelity Long Video Generation",
+    "date": "2022-11-23",
+    "source": "hf-search"
+  },
+  {
+    "n": 6,
+    "id": "arXiv:2503.20314",
+    "url": "https://arxiv.org/abs/2503.20314",
+    "title": "Wan: Open and Advanced Large-Scale Video Generative Models",
+    "date": "2025-03-26",
+    "source": "arxiv"
+  },
+  {
+    "n": 7,
+    "id": "hf-search:2410.13720",
+    "url": "https://huggingface.co/papers/2410.13720",
+    "title": "Movie Gen: A Cast of Media Foundation Models",
+    "date": "2024-10-17",
+    "source": "hf-search"
+  },
+  {
+    "n": 8,
+    "id": "arXiv:2412.15220",
+    "url": "https://arxiv.org/abs/2412.15220",
+    "title": "SyncFlow: Toward Temporally Aligned Joint Audio-Video Generation from Text",
+    "date": "2024-12-03",
+    "source": "arxiv"
+  },
+  {
+    "n": 9,
+    "id": "veo-3-tech-report",
+    "url": "https://storage.googleapis.com/deepmind-media/veo/Veo-3-Tech-Report.pdf",
+    "title": "Veo: a text-to-video generation system",
+    "date": "2025-05-23",
+    "source": "web"
+  },
+  {
+    "n": 10,
+    "id": "2508.03694",
+    "url": "https://arxiv.org/html/2508.03694v1",
+    "title": "LongVie: Multimodal-Guided Controllable Ultra-Long Video Generation",
+    "date": "2025-08-05",
+    "source": "web"
+  },
+  {
+    "n": 11,
+    "id": "2503.03751",
+    "url": "https://arxiv.org/abs/2503.03751",
+    "title": "GEN3C: 3D-Informed World-Consistent Video Generation with Precise Camera Control",
+    "date": "2025-03-05",
+    "source": "web"
+  },
+  {
+    "n": 12,
+    "id": "2411.13503v1",
+    "url": "https://arxiv.org/html/2411.13503v1",
+    "title": "VBench++: Comprehensive and Versatile Benchmark Suite for Video Generative Models",
+    "date": "2024-11-20",
+    "source": "web"
+  },
+  {
+    "n": 13,
+    "id": "2025.findings-acl.241",
+    "url": "https://aclanthology.org/2025.findings-acl.241.pdf",
+    "title": "TC-Bench: Benchmarking Temporal Compositionality in Conditional Video Generation",
+    "date": "n.d.",
+    "source": "web"
+  },
+  {
+    "n": 14,
+    "id": "arXiv:2503.21755",
+    "url": "https://arxiv.org/html/2503.21755",
+    "title": "VBench-2.0: Advancing Video Generation Benchmark Suite for Intrinsic Faithfulness",
+    "date": "n.d.",
+    "source": "web"
+  },
+  {
+    "n": 15,
+    "id": "neurips-2024-t2vsafetybench",
+    "url": "https://papers.nips.cc/paper_files/paper/2024/file/74eed5f568354c2e77dd9b018f38a9d4-Paper-Datasets_and_Benchmarks_Track.pdf",
+    "title": "T2VSafetyBench: Evaluating the Safety of Text-to-Video Generative Models",
+    "date": "2024-12-10",
+    "source": "web"
+  },
+  {
+    "n": 16,
+    "id": "c2pa-explainer-v2.4",
+    "url": "https://spec.c2pa.org/specifications/specifications/2.4/explainer/Explainer.html",
+    "title": "C2PA and Content Credentials Explainer",
+    "date": "n.d.",
+    "source": "web"
+  },
+  {
+    "n": 17,
+    "id": "arxiv-2406.03520",
+    "url": "https://arxiv.org/html/2406.03520v1",
+    "title": "VideoPhy: Evaluating Physical Commonsense for Video Generation",
+    "date": "n.d.",
+    "source": "web"
+  },
+  {
+    "n": 18,
+    "id": "arXiv:2511.18870",
+    "url": "https://arxiv.org/abs/2511.18870",
+    "title": "HunyuanVideo 1.5 Technical Report",
+    "date": "2025-11-25",
+    "source": "arxiv"
+  },
+  {
+    "n": 19,
+    "id": "arXiv:2503.22265",
+    "url": "https://arxiv.org/abs/2503.22265",
+    "title": "DeepAudio-V1: Towards Multi-Modal Multi-Stage End-to-End Video to Speech and Audio Generation",
+    "date": "2025-03-28",
+    "source": "arxiv"
+  },
+  {
+    "n": 20,
+    "id": "arXiv:2508.00733",
+    "url": "https://arxiv.org/abs/2508.00733",
+    "title": "AudioGen-Omni: A Unified Multimodal Diffusion Transformer for Video-Synchronized Audio, Speech, and Song Generation",
+    "date": "2025-08-01",
+    "source": "arxiv"
+  },
+  {
+    "n": 21,
+    "id": "Google DeepMind Veo product page",
+    "url": "https://deepmind.google/models/veo/",
+    "title": "Veo 3.1 — Google DeepMind",
+    "date": "n.d.",
+    "source": "web"
+  },
+  {
+    "n": 22,
+    "id": "hf-search:2503.09642",
+    "url": "https://huggingface.co/papers/2503.09642",
+    "title": "Open-Sora 2.0: Training a Commercial-Level Video Generation Model in $200k",
+    "date": "2025-03-12",
+    "source": "hf-search"
+  }
+]

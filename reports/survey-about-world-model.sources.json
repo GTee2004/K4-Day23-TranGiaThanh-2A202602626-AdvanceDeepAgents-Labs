@@ -1,0 +1,170 @@
+[
+  {
+    "n": 1,
+    "id": "Sutton-1990-ICML-Dyna",
+    "url": "http://www.derongliu.org/adp/adp-cdrom/refs/sutton19900216.pdf",
+    "title": "Integrated Architectures for Learning, Planning, and Reacting Based on Approximating Dynamic Programming",
+    "date": "1990",
+    "source": "web"
+  },
+  {
+    "n": 2,
+    "id": "SuttonBarto-RL-Introduction-Models-and-Planning",
+    "url": "http://incompleteideas.net/sutton/book/ebook/node95.html",
+    "title": "9.1 Models and Planning",
+    "date": "n.d.",
+    "source": "web"
+  },
+  {
+    "n": 3,
+    "id": "arXiv:1803.10122",
+    "url": "https://arxiv.org/abs/1803.10122",
+    "title": "World Models",
+    "date": "2018-05-09",
+    "source": "web"
+  },
+  {
+    "n": 4,
+    "id": "arXiv:1912.01603",
+    "url": "https://arxiv.org/pdf/1912.01603",
+    "title": "Dream to Control: Learning Behaviors by Latent Imagination",
+    "date": "n.d.",
+    "source": "web"
+  },
+  {
+    "n": 5,
+    "id": "2511.09057",
+    "url": "https://arxiv.org/abs/2511.09057",
+    "title": "PAN: A World Model for General, Interactable, and Long-Horizon World Simulation",
+    "date": "2025-11-14",
+    "source": "arxiv"
+  },
+  {
+    "n": 6,
+    "id": "IRASim-ICCV2025",
+    "url": "https://openaccess.thecvf.com/content/ICCV2025/papers/Zhu_IRASim_A_Fine-Grained_World_Model_for_Robot_Manipulation_ICCV_2025_paper.pdf",
+    "title": "IRASim: A Fine-Grained World Model for Robot Manipulation",
+    "date": "2025",
+    "source": "web"
+  },
+  {
+    "n": 7,
+    "id": "arXiv:2510.18135",
+    "url": "https://arxiv.org/abs/2510.18135",
+    "title": "World-in-World: World Models in a Closed-Loop World",
+    "date": "2025-10-20",
+    "source": "arxiv"
+  },
+  {
+    "n": 8,
+    "id": "2510.19654",
+    "url": "https://arxiv.org/abs/2510.19654",
+    "title": "From Forecasting to Planning: Policy World Model for Collaborative State-Action Prediction",
+    "date": "2025-10-22",
+    "source": "arxiv"
+  },
+  {
+    "n": 9,
+    "id": "arXiv:2410.18072",
+    "url": "https://huggingface.co/papers/2410.18072",
+    "title": "WorldSimBench: Towards Video Generation Models as World Simulators",
+    "date": "2024-10-23",
+    "source": "hf-search"
+  },
+  {
+    "n": 10,
+    "id": "2502.20694",
+    "url": "https://huggingface.co/papers/2502.20694",
+    "title": "WorldModelBench: Judging Video Generation Models As World Models",
+    "date": "2025-02-28",
+    "source": "hf-search"
+  },
+  {
+    "n": 11,
+    "id": "Understanding World or Predicting Future? A Comprehensive Survey of World Models",
+    "url": "https://dl.acm.org/doi/10.1145/3746449",
+    "title": "Understanding World or Predicting Future? A Comprehensive Survey of World Models",
+    "date": "2025-09-09",
+    "source": "web"
+  },
+  {
+    "n": 12,
+    "id": "2411.07690",
+    "url": "https://arxiv.org/html/2411.07690",
+    "title": "World Models: The Safety Perspective",
+    "date": "2024",
+    "source": "web"
+  },
+  {
+    "n": 13,
+    "id": "Schmidhuber-1990-FKI-126-90",
+    "url": "https://people.idsia.ch/~juergen/FKI-126-90ocr.pdf",
+    "title": "Making the World Differentiable: On Using Self-Supervised Fully Recurrent Neural Networks for Dynamic Reinforcement Learning and Planning in Non-Stationary Environments",
+    "date": "n.d.",
+    "source": "web"
+  },
+  {
+    "n": 14,
+    "id": "Nature article (MuZero)",
+    "url": "https://www.nature.com/articles/s41586-020-03051-4",
+    "title": "Mastering Atari, Go, chess and shogi by planning with a learned model",
+    "date": "2020-12-23",
+    "source": "web"
+  },
+  {
+    "n": 15,
+    "id": "arXiv:2405.15083",
+    "url": "https://arxiv.org/pdf/2405.15083",
+    "title": "MuDreamer: Learning Predictive World Models without Reconstruction",
+    "date": "2024",
+    "source": "web"
+  },
+  {
+    "n": 16,
+    "id": "arXiv:2406.10667",
+    "url": "https://arxiv.org/html/2406.10667",
+    "title": "UniZero: Generalized and Efficient Planning with Scalable Latent World Models",
+    "date": "2024",
+    "source": "web"
+  },
+  {
+    "n": 17,
+    "id": "arXiv:2010.09832",
+    "url": "https://arxiv.org/pdf/2010.09832",
+    "title": "Dream and Search to Control: Latent Space Planning for Continuous Control",
+    "date": "2020",
+    "source": "web"
+  },
+  {
+    "n": 18,
+    "id": "arXiv:2410.15461",
+    "url": "https://huggingface.co/papers/2410.15461",
+    "title": "EVA: An Embodied World Model for Future Video Anticipation",
+    "date": "2024-10-20",
+    "source": "hf-search"
+  },
+  {
+    "n": 19,
+    "id": "2510.18313",
+    "url": "https://arxiv.org/abs/2510.18313",
+    "title": "OmniNWM: Omniscient Driving Navigation World Models",
+    "date": "2025-10-21",
+    "source": "arxiv"
+  },
+  {
+    "n": 20,
+    "id": "2601.01528",
+    "url": "https://huggingface.co/papers/2601.01528",
+    "title": "DrivingGen: A Comprehensive Benchmark for Generative Video World Models in Autonomous Driving",
+    "date": "2026-01-04",
+    "source": "hf-search"
+  },
+  {
+    "n": 21,
+    "id": "2511.08585",
+    "url": "https://arxiv.org/abs/2511.08585",
+    "title": "Simulating the Visual World with Artificial Intelligence: A Roadmap",
+    "date": "2025-11-11",
+    "source": "arxiv"
+  }
+]

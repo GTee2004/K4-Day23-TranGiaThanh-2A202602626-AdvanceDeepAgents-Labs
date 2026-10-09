@@ -1,0 +1,202 @@
+[
+  {
+    "n": 1,
+    "id": "arXiv-2404.14294",
+    "url": "https://arxiv.org/pdf/2404.14294",
+    "title": "A Survey on Efficient Inference for Large Language Models",
+    "date": "2024-07-19",
+    "source": "web"
+  },
+  {
+    "n": 2,
+    "id": "MLSys-2023-c4be71ab",
+    "url": "https://proceedings.mlsys.org/paper_files/paper/2023/file/c4be71ab8d24cdfb45e3d06dbfca2780-Paper-mlsys2023.pdf",
+    "title": "Efficiently Scaling Transformer Inference",
+    "date": "n.d.",
+    "source": "web"
+  },
+  {
+    "n": 3,
+    "id": "2025.inlg-main.32",
+    "url": "https://aclanthology.org/2025.inlg-main.32.pdf",
+    "title": "Taming the Titans: A Survey of Efficient LLM Inference Serving",
+    "date": "n.d.",
+    "source": "web"
+  },
+  {
+    "n": 4,
+    "id": "DOI:10.1162/tacl_a_00704",
+    "url": "https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00704/125482/A-Survey-on-Model-Compression-for-Large-Language",
+    "title": "A Survey on Model Compression for Large Language Models",
+    "date": "2024-11-27",
+    "source": "web"
+  },
+  {
+    "n": 5,
+    "id": "arXiv:2406.14066",
+    "url": "https://arxiv.org/pdf/2406.14066v2.pdf",
+    "title": "Optimizing Speculative Decoding for Serving Large Language Models Using Goodput",
+    "date": "n.d.",
+    "source": "web"
+  },
+  {
+    "n": 6,
+    "id": "arXiv:2306.08543",
+    "url": "https://arxiv.org/abs/2306.08543",
+    "title": "MiniLLM: On-Policy Distillation of Large Language Models",
+    "date": "n.d.",
+    "source": "web"
+  },
+  {
+    "n": 7,
+    "id": "DOI:10.1145/3689031.3717481",
+    "url": "https://cse.hkust.edu.hk/~weiwa/papers/eurosys25-fall-spinfer.pdf",
+    "title": "SpInfer: Leveraging Low-Level Sparsity for Efficient Large Language Model Inference on GPUs",
+    "date": "2025-03-30",
+    "source": "web"
+  },
+  {
+    "n": 8,
+    "id": "MSR-TR-2024-12",
+    "url": "https://www.microsoft.com/en-us/research/publication/phi-3-technical-report-a-highly-capable-language-model-locally-on-your-phone/",
+    "title": "Phi-3 Technical Report: A Highly Capable Language Model Locally on Your Phone",
+    "date": "2024-08-30",
+    "source": "web"
+  },
+  {
+    "n": 9,
+    "id": "arXiv:2503.19786",
+    "url": "https://arxiv.org/html/2503.19786",
+    "title": "Gemma 3 Technical Report",
+    "date": "2025-03-25",
+    "source": "web"
+  },
+  {
+    "n": 10,
+    "id": "arXiv:2505.09388",
+    "url": "https://arxiv.org/html/2505.09388v1",
+    "title": "Qwen3 Technical Report",
+    "date": "2025-05-14",
+    "source": "web"
+  },
+  {
+    "n": 11,
+    "id": "2501.18107",
+    "url": "https://arxiv.org/abs/2501.18107",
+    "title": "Scaling Inference-Efficient Language Models",
+    "date": "2025-01-30",
+    "source": "arxiv"
+  },
+  {
+    "n": 12,
+    "id": "2409.15790",
+    "url": "https://arxiv.org/abs/2409.15790",
+    "title": "Small Language Models: Survey, Measurements, and Insights",
+    "date": "2025-02-26",
+    "source": "web"
+  },
+  {
+    "n": 13,
+    "id": "2505.16508v2",
+    "url": "https://arxiv.org/html/2505.16508v2",
+    "title": "Edge-First Language Model Inference: Models, Metrics, and Tradeoffs",
+    "date": "n.d.",
+    "source": "web"
+  },
+  {
+    "n": 14,
+    "id": "2025.acl-long.718",
+    "url": "https://aclanthology.org/2025.acl-long.718/",
+    "title": "Demystifying Small Language Models for Edge Deployment",
+    "date": "n.d.",
+    "source": "web"
+  },
+  {
+    "n": 15,
+    "id": "2510.13890v2",
+    "url": "https://arxiv.org/html/2510.13890v2",
+    "title": "A Survey on Collaborating Small and Large Language Models for Performance, Cost-effectiveness, Cloud-edge Privacy, and Trustworthiness",
+    "date": "n.d.",
+    "source": "web"
+  },
+  {
+    "n": 16,
+    "id": "2502.19883",
+    "url": "https://arxiv.org/abs/2502.19883",
+    "title": "Beyond the Tip of Efficiency: Uncovering the Submerged Threats of Jailbreak Attacks in Small Language Models",
+    "date": "n.d.",
+    "source": "web"
+  },
+  {
+    "n": 17,
+    "id": "2511.06512",
+    "url": "https://arxiv.org/abs/2511.06512",
+    "title": "EASE: Practical and Efficient Safety Alignment for Small Language Models",
+    "date": "2025-11-09",
+    "source": "web"
+  },
+  {
+    "n": 18,
+    "id": "2410.20011",
+    "url": "https://huggingface.co/papers/2410.20011",
+    "title": "A Survey of Small Language Models",
+    "date": "2024-10-25",
+    "source": "hf-search"
+  },
+  {
+    "n": 19,
+    "id": "arXiv:2309.06180",
+    "url": "https://arxiv.org/abs/2309.06180",
+    "title": "Efficient Memory Management for Large Language Model Serving with PagedAttention",
+    "date": "2023-09-12",
+    "source": "web"
+  },
+  {
+    "n": 20,
+    "id": "arXiv:2506.09342",
+    "url": "https://arxiv.org/abs/2506.09342",
+    "title": "Latent Multi-Head Attention for Small Language Models",
+    "date": "2025-06-11",
+    "source": "arxiv"
+  },
+  {
+    "n": 21,
+    "id": "arXiv:2503.01743",
+    "url": "https://arxiv.org/html/2503.01743",
+    "title": "Phi-4-Mini Technical Report: Compact yet Powerful Multimodal Language Models via Mixture-of-LoRAs",
+    "date": "2025-03-03",
+    "source": "web"
+  },
+  {
+    "n": 22,
+    "id": "2404.14294",
+    "url": "https://huggingface.co/papers/2404.14294",
+    "title": "A Survey on Efficient Inference for Large Language Models",
+    "date": "2024-04-22",
+    "source": "hf-search"
+  },
+  {
+    "n": 23,
+    "id": "2404.14219",
+    "url": "https://huggingface.co/papers/2404.14219",
+    "title": "Phi-3 Technical Report: A Highly Capable Language Model Locally on Your Phone",
+    "date": "2024-04-22",
+    "source": "hf-search"
+  },
+  {
+    "n": 24,
+    "id": "2503.19786",
+    "url": "https://huggingface.co/papers/2503.19786",
+    "title": "Gemma 3 Technical Report",
+    "date": "2025-03-25",
+    "source": "hf-search"
+  },
+  {
+    "n": 25,
+    "id": "2505.09388",
+    "url": "https://huggingface.co/papers/2505.09388",
+    "title": "Qwen3 Technical Report",
+    "date": "2025-05-14",
+    "source": "hf-search"
+  }
+]

@@ -1,0 +1,146 @@
+[
+  {
+    "n": 1,
+    "id": "2112.09332",
+    "url": "https://arxiv.org/abs/2112.09332",
+    "title": "WebGPT: Browser-assisted question-answering with human feedback",
+    "date": "n.d.",
+    "source": "web"
+  },
+  {
+    "n": 2,
+    "id": "2205.00445",
+    "url": "https://arxiv.org/abs/2205.00445",
+    "title": "MRKL Systems: A modular, neuro-symbolic architecture that combines large language models, external knowledge sources and discrete reasoning",
+    "date": "n.d.",
+    "source": "web"
+  },
+  {
+    "n": 3,
+    "id": "2302.04761",
+    "url": "https://arxiv.org/abs/2302.04761",
+    "title": "Toolformer: Language Models Can Teach Themselves to Use Tools",
+    "date": "2023-02-09",
+    "source": "web"
+  },
+  {
+    "n": 4,
+    "id": "2210.03629",
+    "url": "https://arxiv.org/abs/2210.03629",
+    "title": "ReAct: Synergizing Reasoning and Acting in Language Models",
+    "date": "2023-03-10",
+    "source": "web"
+  },
+  {
+    "n": 5,
+    "id": "arXiv:2305.15334",
+    "url": "https://proceedings.neurips.cc/paper_files/paper/2024/file/e4c61f578ff07830f5c37378dd3ecb0d-Paper-Conference.pdf",
+    "title": "Gorilla: Large Language Model Connected with Massive APIs",
+    "date": "n.d.",
+    "source": "web"
+  },
+  {
+    "n": 6,
+    "id": "arXiv:2307.16789",
+    "url": "https://arxiv.org/abs/2307.16789",
+    "title": "ToolLLM: Facilitating Large Language Models to Master 16000+ Real-world APIs",
+    "date": "n.d.",
+    "source": "web"
+  },
+  {
+    "n": 7,
+    "id": "2308.03688",
+    "url": "https://proceedings.iclr.cc/paper_files/paper/2024/file/e9df36b21ff4ee211a8b71ee8b7e9f57-Paper-Conference.pdf",
+    "title": "AgentBench: Evaluating LLMs as Agents",
+    "date": "n.d.",
+    "source": "web"
+  },
+  {
+    "n": 8,
+    "id": "2503.16416v2",
+    "url": "https://arxiv.org/html/2503.16416v2",
+    "title": "A Survey on Evaluation of LLM-based Agents",
+    "date": "n.d.",
+    "source": "web"
+  },
+  {
+    "n": 9,
+    "id": "2504.08942",
+    "url": "https://arxiv.org/abs/2504.08942",
+    "title": "AgentRewardBench: Evaluating Automatic Evaluations of Web Agent Trajectories",
+    "date": "2025-04-11",
+    "source": "web"
+  },
+  {
+    "n": 10,
+    "id": "2412.14470",
+    "url": "https://arxiv.org/abs/2412.14470",
+    "title": "Agent-SafetyBench: Evaluating the Safety of LLM Agents",
+    "date": "2024-12-19",
+    "source": "arxiv"
+  },
+  {
+    "n": 11,
+    "id": "2512.15163",
+    "url": "https://arxiv.org/abs/2512.15163",
+    "title": "MCP-SafetyBench: A Benchmark for Safety Evaluation of Large Language Models with Real-World MCP Servers",
+    "date": "2025-12-17",
+    "source": "arxiv"
+  },
+  {
+    "n": 12,
+    "id": "2512.04123v2",
+    "url": "https://arxiv.org/html/2512.04123v2",
+    "title": "Measuring Agents in Production",
+    "date": "n.d.",
+    "source": "web"
+  },
+  {
+    "n": 13,
+    "id": "2506.14852",
+    "url": "https://huggingface.co/papers/2506.14852",
+    "title": "Cost-Efficient Serving of LLM Agents via Test-Time Plan Caching",
+    "date": "2025-06-17",
+    "source": "hf-search"
+  },
+  {
+    "n": 14,
+    "id": "2510.16276",
+    "url": "https://huggingface.co/papers/2510.16276",
+    "title": "What Limits Agentic Systems Efficiency?",
+    "date": "2025-10-18",
+    "source": "hf-search"
+  },
+  {
+    "n": 15,
+    "id": "2304.03442",
+    "url": "https://arxiv.org/abs/2304.03442",
+    "title": "Generative Agents: Interactive Simulacra of Human Behavior",
+    "date": "2023-08-06",
+    "source": "web"
+  },
+  {
+    "n": 16,
+    "id": "2308.03688",
+    "url": "https://huggingface.co/papers/2308.03688",
+    "title": "AgentBench: Evaluating LLMs as Agents",
+    "date": "2023-08-07",
+    "source": "hf-search"
+  },
+  {
+    "n": 17,
+    "id": "2508.18298",
+    "url": "https://arxiv.org/html/2508.18298",
+    "title": "Murakkab: Resource-Efficient Agentic Workflow Orchestration in Cloud Platforms",
+    "date": "n.d.",
+    "source": "web"
+  },
+  {
+    "n": 18,
+    "id": "2503.21460",
+    "url": "https://arxiv.org/html/2503.21460",
+    "title": "Large Language Model Agent: A Survey on Methodology, Applications and Challenges",
+    "date": "n.d.",
+    "source": "web"
+  }
+]
